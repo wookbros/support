@@ -10,11 +10,13 @@ Public issue tracker for WOOKBROS services.
 
 Or email us at **wookbros.official@gmail.com**
 
-## Categories
+## Labels
 
-- 🐛 **Bug Report** — Something isn't working as expected
-- 💡 **Feature Request** — Suggest a new feature or improvement
-- ❓ **Question** — General questions about our services
+- `bug` — Something isn't working as expected
+- `feature` — New feature or improvement request
+- `question` — General questions about our services
+- `yangsiljang` — 양실장 service related
+- `resolved` — Issue has been resolved
 
 ## License
 
