@@ -8,8 +8,6 @@ Public issue tracker for WOOKBROS services.
 2. Click **New Issue**
 3. Describe your question, bug report, or suggestion
 
-Or email us at wookbros.official@gmail.com
-
 ## Labels
 
 - `bug` — Something isn't working as expected
