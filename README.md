@@ -15,7 +15,6 @@ Or email us at **wookbros.official@gmail.com**
 - `bug` — Something isn't working as expected
 - `feature` — New feature or improvement request
 - `question` — General questions about our services
-- `yangsiljang` — 양실장 service related
 - `resolved` — Issue has been resolved
 
 ## License
